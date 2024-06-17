@@ -28,7 +28,7 @@ THE SOFTWARE.
     <parent>
         <groupId>org.jenkins-ci.plugins</groupId>
         <artifactId>plugin</artifactId>
-        <version>4.80</version>
+        <version>4.83</version>
     </parent>
 
     <artifactId>collapsing-console-sections</artifactId>
@@ -36,7 +36,7 @@ THE SOFTWARE.
     <packaging>hpi</packaging>
     
     <properties>
-        <jenkins.version>2.361.4</jenkins.version>
+        <jenkins.version>2.440.3</jenkins.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.license>mit</project.license>
     </properties>
